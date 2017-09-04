@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact/search/builder</path>
+    <page_callback>CRM_SbLocationBased_Form_SearchBuilderExt</page_callback>
+    <title>Search Builder</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
